@@ -1,2 +1,4 @@
-Pac man Game Dev Project for the 31263 UTS Intro to Game Dev
- 
+# Final Pac man game dev assignment:  
+
+Software used: Unity 
+Progrmming languge: c#
